@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="C:/Users/ACER/Documents/nam3/Web/Intellij_IDE/ch8_ex1/src/main/webapp" path="/ch08_ex1_email_sol">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="C:/Users/ACER/Documents/nam3/Web/Intellij_IDE/ch8_ex1/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>
